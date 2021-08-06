@@ -1,11 +1,21 @@
 ---
 title: "CV"
 description: |
-  Some additional details about the website
+  Connor Flynn CV
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggthemes)
+
+
 ```
 
+```{r}
+
+
+
+
+```
 
