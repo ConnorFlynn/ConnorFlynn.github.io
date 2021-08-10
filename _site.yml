@@ -6,7 +6,7 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: connor.html
+      href: index.html
     - text: "About"
       href: about.html
     - text: "CV"

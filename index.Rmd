@@ -1,17 +1,17 @@
 ---
 title: "Connor Flynn"
-description: |
-  Welcome!
+image: "IMG_0441.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/connor-flynn-0699241bb/"
+  - label: GitHub
+    url: "https://github.com/ConnorFlynn"
+  - label: Email
+    url: "connorflynn@ucsb.edu"
+output:
+  postcards::jolla
+site : distill::distill_website  
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
+ 
+Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.
 
