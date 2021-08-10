@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-10T15:39:11-07:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "My Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-10T15:39:11-07:00"
+    },
+    {
+      "path": "cv.html",
+      "title": "CV",
+      "description": "Connor Flynn CV",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-10T15:39:14-07:00"
+    },
+    {
+      "path": "hello.html",
+      "title": "hello",
+      "description": "A short description of the post.\n",
+      "author": [
+        {
+          "name": "Unknown",
+          "url": {}
+        }
+      ],
+      "date": "08-10-2021",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-10T15:39:15-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Connor Flynn",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          My Website\r\n          \r\n          \r\n          Home\r\n          About\r\n          CV\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Connor Flynn\r\n          \r\n          \r\n            \r\n              Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.\r\n            \r\n            \r\n              Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-08-10T15:39:15-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
