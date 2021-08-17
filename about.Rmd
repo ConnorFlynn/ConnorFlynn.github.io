@@ -1,7 +1,7 @@
 ---
 title: "About me"
 description: |
-  Some additional details about the website
+  Hi, my name is Connor. As an environmental data scientist, I strive to constantly learn from and serve Hawaiʻi with my work. I hold Bachelor’s Degrees in Environmental Science & Business Administration from Chaminade University of Honolulu, and am currently earning my Masters Degree in Environmental Data Science at the Bren School of Environmental Science & Management, UCSB. The values of environmental stewardship and responsibility perpetuated at Chaminade University along with my respect and love for the natural environment have inspired me to pursue a career in environmental data science. As a student, I worked closely with Malama Maunalua regarding the ecosystem health of Maunalua Bay, Oahu and Aloha Harvest regarding the data management of their food rescue and delivery operations. I finished my education at Chaminade as a data science research assistant in the Department of Strategy & Innovation focusing on food sovereignty and security in Hawaiʻi. Currently, I am passionate about our transition to renewable energy, equity in climate tech solutions, and sustainable food systems. I hope to contribute to all of these solutions throughout my career.
 ---
 
 ```{r setup, include=FALSE}
