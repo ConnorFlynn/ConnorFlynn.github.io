@@ -6,22 +6,22 @@
       "description": "Hi, my name is Connor. As an environmental data scientist, I strive to constantly learn from and serve Hawaiʻi with my work. I hold Bachelor’s Degrees in Environmental Science & Business Administration from Chaminade University of Honolulu, and am currently earning my Masters Degree in Environmental Data Science at the Bren School of Environmental Science & Management, UCSB. The values of environmental stewardship and responsibility perpetuated at Chaminade University along with my respect and love for the natural environment have inspired me to pursue a career in environmental data science. As a student, I worked closely with Malama Maunalua regarding the ecosystem health of Maunalua Bay, Oahu and Aloha Harvest regarding the data management of their food rescue and delivery operations. I finished my education at Chaminade as a data science research assistant in the Department of Strategy & Innovation focusing on food sovereignty and security in Hawaiʻi. Currently, I am passionate about our transition to renewable energy, equity in climate tech solutions, and sustainable food systems. I hope to contribute to all of these solutions throughout my career.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-17T11:50:39-07:00"
+      "last_modified": "2021-08-17T14:30:59-07:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-17T11:50:40-07:00"
+      "last_modified": "2021-08-17T14:31:00-07:00"
     },
     {
       "path": "cv.html",
       "title": "CV",
       "description": "Connor Flynn CV",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-17T11:50:42-07:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-17T14:31:00-07:00"
     },
     {
       "path": "hello.html",
@@ -35,14 +35,14 @@
       ],
       "date": "08-10-2021",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-17T11:50:42-07:00"
+      "last_modified": "2021-08-17T14:31:01-07:00"
     },
     {
       "path": "index.html",
       "title": "Connor Flynn",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          My Website\r\n          \r\n          \r\n          Home\r\n          About\r\n          CV\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Connor Flynn\r\n          \r\n          \r\n            \r\n              Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.\r\n            \r\n            \r\n              Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-08-17T11:50:43-07:00"
+      "last_modified": "2021-08-17T14:31:01-07:00"
     }
   ],
   "collections": ["posts/posts.json"]
