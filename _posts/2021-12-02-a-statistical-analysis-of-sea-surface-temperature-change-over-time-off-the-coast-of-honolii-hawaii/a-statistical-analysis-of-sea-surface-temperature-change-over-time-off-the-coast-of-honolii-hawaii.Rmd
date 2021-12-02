@@ -96,7 +96,12 @@ lm(mean_sst ~ time, data = sst_Honolii_1985_2021_month) %>%
 
 We can see here that there is a positive correlation between time and mean sst. The coefficient on time tells us that for every one unit increase in time, the mean sst increases by 0.00002586144 degrees Celsius. The p value of 0.04 tells us this is statistically significant. 
 
+
+
 Now we can check the residuals by plotting a histogram.
+
+
+
 ```{r}
 ols <- lm(mean_sst ~ time, data = sst_Honolii_1985_2021_month)
 # ols
