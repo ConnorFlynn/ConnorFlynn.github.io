@@ -1,6 +1,6 @@
 ---
 title: "Connor Flynn"
-image: "bren_photo.jpg"
+image: "cover_photo.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/connor-flynn-0699241bb/"

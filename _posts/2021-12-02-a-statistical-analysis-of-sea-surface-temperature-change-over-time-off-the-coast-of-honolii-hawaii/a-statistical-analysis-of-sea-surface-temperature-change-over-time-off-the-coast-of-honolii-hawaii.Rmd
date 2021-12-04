@@ -1,5 +1,5 @@
 ---
-title: "A Statistical Analysis of Sea Surface Temperature Change Over Time off the Coast Of Honoli’i Hawaiʻi"
+title: "A Statistical Analysis of Sea Surface Temperature Change Over Time off the Coast Of Honoli’i, Hawaiʻi"
 description: |
   Statistics for Environmental Data Science, Bren School of Environmental Science & Management, UCSB.
 author:
@@ -162,7 +162,7 @@ sst_Honolii_1985_2021_month_tsibble %>%
 
 From the visualization above, we can see the maximum monthly mean (depicted by the blue line) for September is at 26.6 degrees Celsius. Therefore, we can calculate the bleaching threshold by adding 1 degree Celsius to the maximum monthly mean which gives us 27.6 degrees Celsius. 
 
-Now, we can visualize any bleaching events over the last 35 years using daily sst. We can also do more! **This marine ecosystem off the Hilo coast of the Big Island is known to house to coral that is showing resiliency toward warming sea surface temperatures caused by climate change**. Coral can be heat tolerant for a variety of reasons. This analysis explores the hypothesis that the coral of Honoli'i reef have the ability to adapt to heat by hosting a symbiont algae that increases their bleaching threshold by approximately 1.5 degree Celsius compared to non heat tolerant coral. Therefore, our heat tolerant coral bleaching threshold is 29.1 degrees Celsius.  
+Now, we can visualize any bleaching events over the last 35 years using daily sst. We can also do more! **This marine ecosystem off the Hilo coast of the Big Island is known to house coral that is showing resiliency toward warming sea surface temperatures caused by climate change**. Coral can be heat tolerant for a variety of reasons. This analysis explores the hypothesis that the coral of Honoli'i reef have the ability to adapt to heat by hosting a symbiont algae that increases their bleaching threshold by approximately 1.5 degree Celsius compared to non heat tolerant coral. Therefore, our heat tolerant coral bleaching threshold is 29.1 degrees Celsius.  
 
 
 ```{r, results='hide', include=FALSE}
@@ -264,7 +264,7 @@ forecast_period_demo_plot1
 
 The entire 36 year (432 month) dataset is divided into 4, 9 year (108 month) periods. Within those 9 year periods, there are 27, 4 month periods. Period 1 = 4, Period 2 = 108
 
-These periods, along with functions that default to use least squares to calculate slope, are what creates the forecast. 
+These periods, along with functions that default to use least squares to calculate slope, are what creates the forecast. Let's visualize the output.
 
 ```{r}
 dshw_model = dshw(sst_Honolii_1985_2021_month_ts, period1=4, period2 =108, h = 420)
