@@ -6,14 +6,14 @@
       "description": "Hi, my name is Connor. As an environmental data scientist, I strive to constantly learn from and serve Hawaiʻi with my work. I hold Bachelor’s Degrees in Environmental Science & Business Administration from Chaminade University of Honolulu, and am currently earning my Masters Degree in Environmental Data Science at the Bren School of Environmental Science & Management, UCSB. The values of environmental stewardship and responsibility perpetuated at Chaminade University along with my respect and love for the natural environment have inspired me to pursue a career in environmental data science. As a student, I worked closely with Malama Maunalua regarding the ecosystem health of Maunalua Bay, Oahu and Aloha Harvest regarding the data management of their food rescue and delivery operations. I finished my education at Chaminade as a data science research assistant in the Department of Strategy & Innovation focusing on food sovereignty and security in Hawaiʻi. Currently, I am passionate about our transition to renewable energy, equity in climate tech solutions, and sustainable food systems. I hope to contribute to all of these solutions throughout my career.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-04T15:47:58-08:00"
+      "last_modified": "2022-01-14T14:18:13-08:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-04T15:47:59-08:00"
+      "last_modified": "2022-01-14T14:18:14-08:00"
     },
     {
       "path": "cv.html",
@@ -21,7 +21,7 @@
       "description": "Connor Flynn CV",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-04T15:47:59-08:00"
+      "last_modified": "2022-01-14T14:18:15-08:00"
     },
     {
       "path": "hello.html",
@@ -35,14 +35,14 @@
       ],
       "date": "08-10-2021",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-12-04T15:47:59-08:00"
+      "last_modified": "2022-01-14T14:18:15-08:00"
     },
     {
       "path": "index.html",
       "title": "Connor Flynn",
       "author": [],
       "contents": "\n\n          \n          \n          My Website\n          \n          \n          Home\n          About\n          CV\n          Blog\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Connor Flynn\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Connor Flynn\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              Hi, I am currently studying Environmental Data Science at the Bren School of Environmental Science & Management, UCSB.\n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-12-04T15:47:59-08:00"
+      "last_modified": "2022-01-14T14:18:15-08:00"
     }
   ],
   "collections": ["posts/posts.json"]

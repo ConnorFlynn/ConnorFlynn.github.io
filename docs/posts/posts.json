@@ -15,22 +15,5 @@
     "preview": "posts/2021-12-02-a-statistical-analysis-of-sea-surface-temperature-change-over-time-off-the-coast-of-honolii-hawaii/a-statistical-analysis-of-sea-surface-temperature-change-over-time-off-the-coast-of-honolii-hawaii_files/figure-html5/unnamed-chunk-5-1.png",
     "last_modified": "2021-12-04T15:42:46-08:00",
     "input_file": {}
-  },
-  {
-    "path": "posts/2021-08-16-my-blog/",
-    "title": "My Blog",
-    "description": "My first blog post / Credit: NCEAS Tidy Coral.",
-    "author": [
-      {
-        "name": "Unknown",
-        "url": {}
-      }
-    ],
-    "date": "2021-08-16",
-    "categories": [],
-    "contents": "\n\n# A tibble: 6 x 25\n  `Site Name` Station `Frame No.` `Image Date` `ID Name`     `ID Code`\n  <lgl>       <lgl>   <lgl>       <lgl>        <chr>         <lgl>    \n1 NA          NA      NA          NA           Pocillopora ~ NA       \n2 NA          NA      NA          NA           Turf algae    NA       \n3 NA          NA      NA          NA           Coralline al~ NA       \n4 NA          NA      NA          NA           Coralline al~ NA       \n5 NA          NA      NA          NA           Coralline al~ NA       \n6 NA          NA      NA          NA           Turf algae    NA       \n# ... with 19 more variables: Point <dbl>, X <dbl>, Y <dbl>,\n#   Intensity <lgl>, Red <lgl>, Green <lgl>, Blue <lgl>,\n#   File Name <chr>, Total Points <dbl>, ID Date <chr>,\n#   Site ID <lgl>, Site Code <lgl>, Time Code <lgl>,\n#   Institution <lgl>, User Name <lgl>, Habitat <lgl>, WQS <lgl>,\n#   Length <lgl>, Depth <lgl>\n [1] \"site_name\"    \"station\"      \"frame_no\"     \"image_date\"  \n [5] \"id_name\"      \"id_code\"      \"point\"        \"x\"           \n [9] \"y\"            \"intensity\"    \"red\"          \"green\"       \n[13] \"blue\"         \"file_name\"    \"total_points\" \"id_date\"     \n[17] \"site_id\"      \"site_code\"    \"time_code\"    \"institution\" \n[21] \"user_name\"    \"habitat\"      \"wqs\"          \"length\"      \n[25] \"depth\"       \n# A tibble: 6 x 5\n  id_name               point     x     y id_date     \n  <chr>                 <dbl> <dbl> <dbl> <chr>       \n1 Pocillopora meandrina     1  1773  1000 #2010-03-12#\n2 Turf algae                2  2308   194 #2010-03-12#\n3 Coralline algae           3  1700  1782 #2010-03-12#\n4 Coralline algae           4  2470   584 #2010-03-12#\n5 Coralline algae           5   314  1145 #2010-03-12#\n6 Turf algae                6   198  1660 #2010-03-12#\n   id_name              point          x              y         \n Length:4925        Min.   : 1   Min.   :   1   Min.   :   1.0  \n Class :character   1st Qu.: 7   1st Qu.: 627   1st Qu.: 489.0  \n Mode  :character   Median :13   Median :1266   Median : 958.0  \n                    Mean   :13   Mean   :1271   Mean   : 963.8  \n                    3rd Qu.:19   3rd Qu.:1918   3rd Qu.:1434.0  \n                    Max.   :25   Max.   :2560   Max.   :1920.0  \n   id_date              date          \n Length:4925        Length:4925       \n Class :character   Class :character  \n Mode  :character   Mode  :character  \n                                      \n                                      \n                                      \nTable 1: Data summary\nName\nbenthic\nNumber of rows\n4925\nNumber of columns\n6\n_______________________\n\nColumn type frequency:\n\ncharacter\n3\nnumeric\n3\n________________________\n\nGroup variables\nNone\nVariable type: character\nskim_variable\nn_missing\ncomplete_rate\nmin\nmax\nempty\nn_unique\nwhitespace\nid_name\n0\n1\n4\n21\n0\n16\n0\nid_date\n0\n1\n12\n12\n0\n6\n0\ndate\n0\n1\n10\n10\n0\n6\n0\nVariable type: numeric\nskim_variable\nn_missing\ncomplete_rate\nmean\nsd\np0\np25\np50\np75\np100\nhist\npoint\n0\n1\n13.00\n7.21\n1\n7\n13\n19\n25\n▇▇▇▇▇\nx\n0\n1\n1271.09\n743.82\n1\n627\n1266\n1918\n2560\n▇▇▇▇▇\ny\n0\n1\n963.80\n546.82\n1\n489\n958\n1434\n1920\n▇▇▇▇▇\n\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": "posts/2021-08-16-my-blog/my-blog_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2021-12-02T15:05:31-08:00",
-    "input_file": {}
   }
 ]
