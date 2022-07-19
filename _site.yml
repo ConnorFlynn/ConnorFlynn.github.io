@@ -1,5 +1,5 @@
 name: "ConnorFlynn.github.io"
-title: "My Website"
+title: "Connor Flynn"
 theme: theme.css
 description: |
   My Website
@@ -8,10 +8,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "CV"
-      href: cv.html
+    - text: "Resume"
+      href: ohi_resume.html
     - text: "Blog"
       href: blog.html
       
