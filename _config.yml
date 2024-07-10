@@ -12,7 +12,7 @@ title                    : "Connor Flynn"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ConnorFlynn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ConnorFlynn/ConnorFlynn.github.io"
 
@@ -21,7 +21,7 @@ repository               : "ConnorFlynn/ConnorFlynn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : images/bren_photo.png
+  avatar           : "bren_photo.png"
   name             : "Connor Flynn"
   bio              : "Data Scientist | Education Director"
   location         : "Honolulu, Hawaii"
@@ -34,6 +34,7 @@ author:
   # Repositories and software development
 
   github           : "ConnorFlynn"
+  linkedin         : "connor-flynn"
 
 
 
