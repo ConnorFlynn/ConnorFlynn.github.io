@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bren_photo.png"
+  avatar           : "images/bren_photo.png"
   name             : "Connor Flynn"
   bio              : "Data Scientist | Education Director"
   location         : "Honolulu, Hawaii"
