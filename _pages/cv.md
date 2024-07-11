@@ -11,41 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Environmental Data Science, Bren School of Environmental Science & Management, UC Santa Barabara
+* B.S. in Environmental Science | B.S. in Business Administration, Chaminade University of Honolulu
+  * Minors in Data Science & Computer Information Systems
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - Present: Data Scientist | Education Director
+  * Chaminade University of Honolulu | UN CIFAL Honolulu | NSF INCLUDES Alliance, Supporting Pacific Imact through Computational Excellence (SPICE)
+  * Duties include: Perform impactful research relevant to the United Nations Sustainable Development Goals (SDG's). Design and implement data science experiences for a diverse group of particpants including undergraduate students, nonprofit employees, & non-traditional students.
+  * Supervisor: Dr. Helen Turner
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 - July 2024: Data Analyst | Undergraduate Research Coordinator
+  * Chaminade University of Honolulu | UN CIFAL Honolulu | NSF INCLUDES Alliance, Supporting Pacific Imact through Computational Excellence (SPICE)
+  * Duties included: Perform impactful research relevant to the United Nations Sustainable Development Goals (SDG's). Mentor undergraduate students in data science focused research experiences
+  * Supervisor: Dr. Helen Turner
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding in R & Python
+* Reproducible coding with Git & Github
+* Communicating data science concepts and making those concepts relevant to diverse stakeholders
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -59,6 +46,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
