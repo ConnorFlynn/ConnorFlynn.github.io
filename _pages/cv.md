@@ -12,18 +12,20 @@ redirect_from:
 Education
 ======
 * M.S. in Environmental Data Science, Bren School of Environmental Science & Management, UC Santa Barabara
+  - June 2022
 * B.S. in Environmental Science & B.S. in Business Administration, Chaminade University of Honolulu
   * Minors in Data Science & Computer Information Systems
+  - May 2021
 
 Work experience
 ======
 * July 2024 - Present: Data Scientist & Education Director
-  * Chaminade University of Honolulu - UN CIFAL Honolulu - NSF INCLUDES Alliance, Supporting Pacific Imact through Computational Excellence (SPICE)
+  * Chaminade University of Honolulu - UN CIFAL Honolulu - NSF INCLUDES Alliance, Supporting Pacific Impact through Computational Excellence (SPICE)
   * Duties include: Perform impactful research relevant to the United Nations Sustainable Development Goals (SDG's). Design and implement data science experiences for a diverse group of particpants including undergraduate students, nonprofit employees, & non-traditional students.
   * Supervisor: Dr. Helen Turner
 
 * June 2022 - July 2024: Data Analyst & Undergraduate Research Coordinator
-  * Chaminade University of Honolulu - UN CIFAL Honolulu - NSF INCLUDES Alliance, Supporting Pacific Imact through Computational Excellence (SPICE).
+  * Chaminade University of Honolulu - UN CIFAL Honolulu - NSF INCLUDES Alliance, Supporting Pacific Impact through Computational Excellence (SPICE).
   * Duties included: Perform impactful research relevant to the United Nations Sustainable Development Goals (SDG's). Mentor undergraduate students in data science focused research experiences.
   * Supervisor: Dr. Helen Turner
   
