@@ -17,6 +17,13 @@ Hi, my name is Connor Flynn. I am currently a Data Scientist for Chaminade Unive
 My bachelor's degrees are from Chaminade University of Honolulu in Environmental Science & Business Administration, with minors in Data Science and Computer Information Systems. I received my masters degree in Environmental Data Science as part of the inaugural cohort of this program at the Bren School of Environmental Science & Management, UC Santa Barbara. 
 
 
+### Highlights
+
+- Selected to participate in the AIM-AHEAD ScHARe Equity in Population Health AI: [Beyond EHR Training Program](https://www.aim-ahead.net/programs/aim-ahead-schare-equity-in-population-health-ai-beyond-ehr-training-program/)
+
+- Induction of the 3rd Cohort of [SDG Analytics in R](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/index.html): A United Nations Certificate teaching reproducible coding in R though the lens of SDG data
+
+- Adjunct Professor in Data Science for Chaminade University of Honolulu: [DS 400, Bayesian Statistics in R](https://github.com/NSF-ALL-SPICE-Alliance/DS400)
 
 
 
